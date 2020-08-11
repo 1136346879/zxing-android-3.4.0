@@ -5,14 +5,14 @@ Zxin--二维码扫码
 
 识别二维码过程：
 扫码效果大家可以看看：
-![image](image https://img-blog.csdnimg.cn/20200811190559935.gif)
+![image](https://img-blog.csdnimg.cn/20200811190559935.gif)
 
 应用设置页面
 
-![image](image https://img-blog.csdnimg.cn/20200811185418171.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dkeF8xMTM2MzQ2ODc5,size_16,color_FFFFFF,t_70)
+![image](https://img-blog.csdnimg.cn/20200811185418171.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dkeF8xMTM2MzQ2ODc5,size_16,color_FFFFFF,t_70)
 
 示例二维码：
-![image](image https://img-blog.csdnimg.cn/20200811185407362.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dkeF8xMTM2MzQ2ODc5,size_16,color_FFFFFF,t_70)
+![image](https://img-blog.csdnimg.cn/20200811185407362.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dkeF8xMTM2MzQ2ODc5,size_16,color_FFFFFF,t_70)
 
 zxing3.4.0-android-github源码地址（demo）
 
